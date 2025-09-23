@@ -1,0 +1,18 @@
+.env
+base_embedding_model/
+cosineloss_embedding_model/
+results/
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.ipynb_checkpoints/
+# Hugging Face cache
+.cache/
+transformers_cache/
+bert_base_trained_glue.zip
