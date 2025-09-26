@@ -16,3 +16,5 @@ __pycache__/
 .cache/
 transformers_cache/
 bert_base_trained_glue.zip
+checkpoints/
+MNRloss_model/
